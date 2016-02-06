@@ -1,0 +1,8 @@
+.DS_Store
+*~
+*.pyc
+*_flymake.*
+.vim/bundle/*/doc/tags
+.vim/bundle/*/doc/tags-??
+*.swp
+
