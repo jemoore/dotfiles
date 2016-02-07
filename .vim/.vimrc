@@ -176,8 +176,8 @@ if &t_Co >= 256 || has("gui_running")
   set guioptions-=T
   set t_Co=256
   set background=dark
-"  colorscheme peaksea
-  colorscheme obsidian2
+  colorscheme peaksea
+"  colorscheme obsidian2
   set nonu
 else
   colorscheme zellner
